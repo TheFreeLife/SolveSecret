@@ -1,1 +1,5 @@
-"# SolveSecret"  git init git add README.md
+파이썬으로 만든 암호화&복호화 프로그램입니다.
+
+version 1.0.0
+
+사용된 파이썬 버전: 3.x.x 버전
